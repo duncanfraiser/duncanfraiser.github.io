@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Duncan Fraiser</title>
+        <link rel="icon" href="http://duncanfraiser.com/img/logo_letters.png">
+        
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -68,11 +70,14 @@
             <div class="content">
             <img src="https://avatars1.githubusercontent.com/u/14840572?v=3&s=460">
                 <div class="title m-b-md">
-                   Duncan Fraiser<br/>
-
-                   <span style="font-size: 50%">coming soon...</span>
+                   Duncan Fraiser
                 </div>
-
+                <div class="links">
+                    
+                    <a href="https://github.com/duncanfraiser">Overview</a>
+                    <a target="blank" href="http://duncanfraiser.com">Portfolio</a>
+                    <a href="https://github.com/duncanfraiser?tab=repositories">Repositories</a>
+                </div>
            </div>
         </div>
     </body>
