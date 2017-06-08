@@ -16,12 +16,12 @@
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
-                height: 50vh;
+                height: 100vh;
                 margin: 0;
             }
 
             .full-height {
-                height: 50vh;
+                height: 100vh;
             }
 
             .flex-center {
@@ -66,12 +66,14 @@
     <body>
         <div class="flex-center position-ref full-height">
             <div class="content">
+            <img src="https://avatars1.githubusercontent.com/u/14840572?v=3&s=460">
                 <div class="title m-b-md">
                    Duncan Fraiser<br/>
+
                    <span style="font-size: 50%">coming soon...</span>
                 </div>
+
            </div>
         </div>
     </body>
 </html>
-
