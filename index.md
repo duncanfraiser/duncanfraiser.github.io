@@ -63,12 +63,21 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+            
+            .img-circle {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border-radius: 50%;
+    width: 300px;
+}
+
+
         </style>
     </head>
     <body>
         <div class="flex-center position-ref full-height">
             <div class="content">
-            <img src="https://avatars1.githubusercontent.com/u/14840572?v=3&s=460">
+            <img class="img-circle" src="https://avatars1.githubusercontent.com/u/14840572?v=3&s=460">
                 <div class="title m-b-md">
                    Duncan Fraiser
                 </div>
