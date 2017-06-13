@@ -69,7 +69,8 @@
     margin-bottom: 2em;
     border-radius: 50%;
     width: 300px;
-    border: 2px solid red;
+    border: 2px solid #000;
+    
   
 }
 
