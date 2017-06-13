@@ -79,7 +79,7 @@
     <body>
         <div class="flex-center position-ref full-height">
             <div class="content">
-            <img class="img-circle" src="https://avatars1.githubusercontent.com/u/14840572?v=3&s=460">
+            <a href="https://github.com/duncanfraiser"><img class="img-circle" src="https://avatars1.githubusercontent.com/u/14840572?v=3&s=460"></a>
                 <div class="title m-b-md">
                    Duncan Fraiser
                 </div>
